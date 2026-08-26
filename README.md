@@ -31,7 +31,8 @@ The screenshots and captured Logcat files are listed in [QA_DOCUMENTATION.md](QA
   - iAB 1.8.1.0 (MRAID/VAST)
   - Sentry Analytics 8.44.1.0
 
-The Appodeal app key is deliberately not committed or included in the submission archive.
+The Appodeal app key is deliberately not committed or included in the submission archive. 
+The included APK is the exact verified build. Rebuilding the project requires a valid Appodeal app key configured for the application package.
 
 ## Build
 
