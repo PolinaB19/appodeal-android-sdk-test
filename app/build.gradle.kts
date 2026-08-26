@@ -47,7 +47,7 @@ dependencies {
     implementation("com.appodeal.ads.sdk.adapters:bidmachine:3.7.1.0")
     implementation("com.appodeal.ads.sdk.adapters:bidon:0.14.0.0")
     implementation("com.appodeal.ads.sdk.adapters:iab:1.8.1.0")
-    // This service adapter prevents a verified SDK 4.3.0 initialization error
-    // when this mediation-only server response omits its `services` object.
+    // Added as a tested workaround for an initialization error observed
+// in this specific mediation configuration.
     implementation("com.appodeal.ads.sdk.adapters:sentry_analytics:8.44.1.0")
 }
