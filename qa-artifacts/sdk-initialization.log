@@ -1,0 +1,36 @@
+﻿08-26 19:17:48.981 D/Appodeal( 9158): SDK-Public [Initialize]: v4.3.0/220726 initialized, appKey: [REDACTED], package name: com.appodealsdktest.codex.a20260826f3c7
+08-26 19:17:48.985 D/Appodeal( 9158): SDK-Public [Initialize]: Current device is: Emulator
+08-26 19:17:49.006 D/Appodeal( 9158): SDK-Public [Initialize]: Google play services version: 12451000
+08-26 19:17:49.021 D/Appodeal( 9158): Network [Info]: Appodeal - ver. 1.0.0
+08-26 19:17:49.027 D/Appodeal( 9158): Network [Info]: Bidmachine - ver. 3.7.1
+08-26 19:17:49.032 D/Appodeal( 9158): Network [Info]: Bidon - ver. 0.14.0
+08-26 19:17:49.041 D/Appodeal( 9158): Network [Info]: Mraid - ver. 1.8.1
+08-26 19:17:49.049 D/Appodeal( 9158): Network [Info]: Vast - ver. 1.8.1
+08-26 19:17:56.300 D/Appodeal( 9158): SDK-Public [Appodeal]: setTesting. testing: true
+08-26 19:17:56.304 D/Appodeal( 9158): SDK [Dump]: Banner waterfall:
+08-26 19:17:56.833 D/Appodeal( 9158): SDK-Public [Appodeal]: setTesting. testing: true
+08-26 19:17:56.839 D/Appodeal( 9158): SDK [Dump]: Interstitial waterfall:
+08-26 19:17:56.863 D/Appodeal( 9158): SDK-Public [Appodeal]: setTesting. testing: true
+08-26 19:17:56.865 D/Appodeal( 9158): SDK [Dump]: Native waterfall:
+08-26 19:17:56.974 D/Appodeal( 9158): SDK-Public [Appodeal]: setTesting. testing: true
+08-26 19:17:56.975 D/Appodeal( 9158): SDK [Dump]: RewardedVideo waterfall:
+08-26 19:17:57.168 D/Appodeal( 9158): Native [Loaded]: Appodeal - eCPM: 0.00, precache: false, expTime: 0, id: NjdRO...
+08-26 19:17:57.281 D/Appodeal( 9158): Banner [Loaded]: Mraid - eCPM: 0.00, precache: false, expTime: 0, id: bjhML...
+08-26 19:17:57.518 D/Appodeal( 9158): Interstitial [Loaded]: Mraid - eCPM: 0.00, precache: false, expTime: 0, id: aW1ZN...
+08-26 19:17:58.318 D/Appodeal( 9158): Banner [Notify Loaded]: height: 50dp, isPrecache: false
+08-26 19:17:58.329 D/Appodeal( 9158): Native [Notify Loaded]: available count of Native Ads: 1
+08-26 19:17:58.335 D/Appodeal( 9158): SDK [Dump]: Native waterfall:
+08-26 19:17:58.346 D/Appodeal( 9158): Native [Notify Loaded]: isPrecache: false
+08-26 19:17:58.369 D/Appodeal( 9158): Interstitial [Notify Loaded]: isPrecache: false
+08-26 19:17:58.445 D/Appodeal( 9158): Native [Loaded]: Appodeal - eCPM: 0.00, precache: false, expTime: 0, id: NjdRO...
+08-26 19:17:58.638 D/Appodeal( 9158): RewardedVideo [Loaded]: Vast - eCPM: 0.00, precache: false, expTime: 0, id: a2E4c...
+08-26 19:17:58.765 D/Appodeal( 9158): Native [Notify Loaded]: available count of Native Ads: 2
+08-26 19:17:59.017 D/Appodeal( 9158): RewardedVideo [Notify Loaded]: isPrecache: false
+08-26 19:19:30.178 D/Appodeal( 9158): Banner [Shown]: Mraid - eCPM: 0.00, precache: false, expTime: 0, id: bjhML...
+08-26 19:19:30.447 D/Appodeal( 9158): Banner [Notify Shown]
+08-26 19:19:50.140 D/Appodeal( 9158): Native [Shown]: Appodeal - eCPM: 0.00, precache: false, expTime: 0, id: NjdRO...
+08-26 19:19:50.176 D/Appodeal( 9158): Native [Notify Shown]
+08-26 19:20:06.194 D/Appodeal( 9158): Interstitial [Shown]: Mraid - eCPM: 0.00, precache: false, expTime: 0, id: aW1ZN...
+08-26 19:20:06.900 D/Appodeal( 9158): Interstitial [Notify Shown]
+08-26 19:20:43.013 D/Appodeal( 9158): RewardedVideo [Shown]: Vast - eCPM: 0.00, precache: false, expTime: 0, id: a2E4c...
+08-26 19:20:43.506 D/Appodeal( 9158): RewardedVideo [Notify Shown]

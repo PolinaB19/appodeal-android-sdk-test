@@ -1,0 +1,2 @@
+# Copy to local.properties. Never commit your real Appodeal key.
+APPODEAL_APP_KEY=replace_with_key_from_appodeal_dashboard

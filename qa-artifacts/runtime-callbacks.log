@@ -1,0 +1,25 @@
+﻿--------- beginning of main
+08-26 19:17:55.781 I/AppodealSample( 9158): INIT finished; errors=none
+08-26 19:17:55.793 I/AppodealSample( 9158): LOAD banner
+08-26 19:17:55.834 I/AppodealSample( 9158): LOAD interstitial
+08-26 19:17:55.851 I/AppodealSample( 9158): LOAD rewarded
+08-26 19:17:55.858 I/AppodealSample( 9158): LOAD native
+08-26 19:17:58.319 I/AppodealSample( 9158): BANNER loaded height=50 precache=false
+08-26 19:17:58.347 I/AppodealSample( 9158): NATIVE loaded
+08-26 19:17:58.369 I/AppodealSample( 9158): INTERSTITIAL loaded precache=false
+08-26 19:17:59.017 I/AppodealSample( 9158): REWARDED loaded precache=false
+08-26 19:19:30.072 I/AppodealSample( 9158): SHOW banner requested; loaded=true
+08-26 19:19:30.154 I/AppodealSample( 9158): SHOW banner accepted=true
+08-26 19:19:30.459 I/AppodealSample( 9158): BANNER shown
+08-26 19:19:49.949 I/AppodealSample( 9158): SHOW native requested; loaded=true
+08-26 19:19:50.045 I/AppodealSample( 9158): SHOW native accepted=true
+08-26 19:19:50.177 I/AppodealSample( 9158): NATIVE shown
+08-26 19:20:04.969 I/AppodealSample( 9158): SHOW interstitial requested; loaded=true
+08-26 19:20:05.002 I/AppodealSample( 9158): SHOW interstitial accepted=true
+08-26 19:20:06.901 I/AppodealSample( 9158): INTERSTITIAL shown
+08-26 19:20:39.298 I/AppodealSample( 9158): INTERSTITIAL closed
+08-26 19:20:42.437 I/AppodealSample( 9158): SHOW rewarded requested; loaded=true
+08-26 19:20:42.454 I/AppodealSample( 9158): SHOW rewarded accepted=true
+08-26 19:20:43.506 I/AppodealSample( 9158): REWARDED shown
+08-26 19:21:35.580 I/AppodealSample( 9158): REWARDED finished amount=0.0 currency=
+08-26 19:21:35.587 I/AppodealSample( 9158): REWARDED closed finished=true

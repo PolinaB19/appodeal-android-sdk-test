@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="16dp">
+    <TextView android:id="@+id/status" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Preparing SDK…" android:textStyle="bold" />
+    <Button android:id="@+id/show_banner" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Show banner" />
+    <Button android:id="@+id/show_interstitial" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Show interstitial" />
+    <Button android:id="@+id/show_rewarded" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Show rewarded video" />
+    <Button android:id="@+id/show_native" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:text="Show native ad" />
+    <ScrollView android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1">
+        <TextView android:id="@+id/events" android:layout_width="match_parent"
+            android:layout_height="wrap_content" android:textSize="12sp" android:fontFamily="monospace" />
+    </ScrollView>
+    <com.appodeal.ads.BannerView android:id="@+id/appodeal_banner"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+    <com.appodeal.ads.nativead.NativeAdViewNewsFeed android:id="@+id/native_ad"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>
